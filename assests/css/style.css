@@ -1,0 +1,19 @@
+.container-fluid{
+	padding: 50px 60px;
+}
+.jumbotron{
+	background: #16cfec;
+	color: white;
+}
+.form-inline{
+	display: block;
+}
+.bg-grey{
+	background: grey;
+}
+@media screen and (max-width: 768px){
+	.col-sm-4{
+		text-align: center;
+		margin: 25px 0;
+	}
+}
